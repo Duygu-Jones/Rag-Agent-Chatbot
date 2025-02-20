@@ -2,7 +2,7 @@
 ---
 
 <h1 align="center">
-🌐 MultiPage RAG - Agent Assistant <br> 🤖 Chatbot Demo
+🌐 MultiPage RAG - Agent Assistant <br>  🤖 Chatbot Demo
 </h1>
 
 <h3 align="center">
